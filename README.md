@@ -104,7 +104,25 @@ The program collects subjects from all students and displays only unique subject
 
 The program displays a thank-you message and exits.
 
-## Final Output
+## Program Output Screenshots
+
+### Add Student
+
+This screenshot shows the process of adding a new student record.
+
+![Add Student](Add_Student.png)
+
+### Display and Update Student
+
+This screenshot shows the display and update student operations.
+
+![Display and Update Student](Display_Update_Student.png)
+
+### Delete, Display Subjects and Exit
+
+This screenshot shows the delete student, display unique subjects, and exit operations.
+
+![Delete, Display Subjects and Exit](Delete_Display_Exit.png)
 
 ## Conclusion
 
