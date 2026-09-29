@@ -42,21 +42,21 @@ A Set is used to store student subjects.
 A Dictionary is used to store the complete information of each student.
 
 It stores:
-Student ID
-Name
-Age
-Grade
-Date of Birth
-Subjects
+# Student ID
+# Name
+# Age
+# Grade
+# Date of Birth
+# Subjects
 
 ### String Formatting and Manipulation
 
 The program uses f-strings to display student information in a clear format.
 
 It also uses the following string methods:
-split()
-strip()
-join()
+# split()
+# strip()
+# join()
 
 These methods are used to process and format subject information.
 
@@ -88,11 +88,11 @@ Displays all stored student records in a formatted manner.
 
 The user enters the Student ID and can update:
 
-Name
-Age
-Grade
-Subjects
-Delete Student
+# Name
+# Age
+# Grade
+# Subjects
+# Delete Student
 
 The user enters the Student ID. The matching student record is removed from the List using the del keyword.
 
