@@ -116,7 +116,7 @@ This screenshot shows the process of adding a new student record.
 
 This screenshot shows the display and update student operations.
 
-![Display and Update Student](Display_Update_Student.png)
+![Display and Update Student](Display_student,Update_Student.png)
 
 ### Delete, Display Subjects and Exit
 
