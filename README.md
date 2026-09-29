@@ -116,13 +116,13 @@ This screenshot shows the process of adding a new student record.
 
 This screenshot shows the display and update student operations.
 
-![Display and Update Student](Display_student,Update_Student.png)
+![Display and Update Student](Display_student,Update_student.png)
 
 ### Delete, Display Subjects and Exit
 
 This screenshot shows the delete student, display unique subjects, and exit operations.
 
-![Delete, Display Subjects and Exit](Delete_Display_Exit.png)
+![Delete, Display Subjects and Exit](Delete_student,Display_subject,Exit.png)
 
 ## Conclusion
 
