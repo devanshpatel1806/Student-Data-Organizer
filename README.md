@@ -124,6 +124,12 @@ This screenshot shows the delete student, display unique subjects, and exit oper
 
 ![Delete, Display Subjects and Exit](Delete_student,Display_subject,Exit.png)
 
+## Project Explanation Video
+
+This video demonstrates the Student Data Organizer project, including the code explanation and program execution.
+
+[Watch Explanation Video](./explanation_video.mp4)
+
 ## Conclusion
 
 The Student Data Organizer demonstrates the practical use of Python collection types and basic programming concepts in a simple menu-driven application.
